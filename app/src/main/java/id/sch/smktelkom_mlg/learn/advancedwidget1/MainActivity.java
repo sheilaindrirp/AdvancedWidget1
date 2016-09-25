@@ -56,7 +56,6 @@ public class MainActivity extends AppCompatActivity {
         });
 
     }
-
     private void addEditText(int jumlah) {
         llAnak.removeAllViews();
         for (int i = 1; i <= jumlah; i++) {
