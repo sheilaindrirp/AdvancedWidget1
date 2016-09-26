@@ -10,5 +10,5 @@ Nama Program : Advanced Widget 1
 Nama : Sheila Indri Rukmana Putri <br>
 Kelas : XI RPL 5 <br>
 No urut : 32 <br>
-NIS : 4837/1556.070
+NIS : 4837/1556.070 <br>
 Sekolah : SMK Telkom Malang
